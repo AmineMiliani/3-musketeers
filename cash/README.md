@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Cash
+=======
+# cash
+>>>>>>> 019a107988e2ff4bce0896c7c9257b3a484e5e80
 
 
 ![cash](https://source.unsplash.com/WVUrbhWtRNM/800x600)
@@ -38,7 +42,11 @@ You can also change the defaults currencies, in order to change the defaults cur
 ```javascript
 const DEFAULT_TO_CURRENCIES = ['USD', 'EUR', 'GBP', 'JPY'];
 ```
+<<<<<<< HEAD
 Becomes
+=======
+Become
+>>>>>>> 019a107988e2ff4bce0896c7c9257b3a484e5e80
 ```javascript
 const DEFAULT_TO_CURRENCIES = ['USD', 'EUR', 'CAD', 'BZD','MXN'];
 ```
